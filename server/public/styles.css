@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(4, 36, 46);
+    color:rgb(190, 210, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+};
+
+h1 {
+    border-bottom:2px solid rgb(255, 166, 89);
+};
